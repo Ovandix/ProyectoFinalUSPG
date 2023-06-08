@@ -1,0 +1,88 @@
+C:\Users\Billy\Documents\Programación 3\ProyectoFinalUSPG\bin\Debug\net6.0-windows\ProyectoFinalUSPG.exe
+C:\Users\Billy\Documents\Programación 3\ProyectoFinalUSPG\bin\Debug\net6.0-windows\ProyectoFinalUSPG.deps.json
+C:\Users\Billy\Documents\Programación 3\ProyectoFinalUSPG\bin\Debug\net6.0-windows\ProyectoFinalUSPG.runtimeconfig.json
+C:\Users\Billy\Documents\Programación 3\ProyectoFinalUSPG\bin\Debug\net6.0-windows\ProyectoFinalUSPG.dll
+C:\Users\Billy\Documents\Programación 3\ProyectoFinalUSPG\bin\Debug\net6.0-windows\ProyectoFinalUSPG.pdb
+C:\Users\Billy\Documents\Programación 3\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.csproj.AssemblyReference.cache
+C:\Users\Billy\Documents\Programación 3\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmPrincipal.resources
+C:\Users\Billy\Documents\Programación 3\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.csproj.GenerateResource.cache
+C:\Users\Billy\Documents\Programación 3\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Billy\Documents\Programación 3\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.AssemblyInfoInputs.cache
+C:\Users\Billy\Documents\Programación 3\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.AssemblyInfo.cs
+C:\Users\Billy\Documents\Programación 3\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.csproj.CoreCompileInputs.cache
+C:\Users\Billy\Documents\Programación 3\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.dll
+C:\Users\Billy\Documents\Programación 3\ProyectoFinalUSPG\obj\Debug\net6.0-windows\refint\ProyectoFinalUSPG.dll
+C:\Users\Billy\Documents\Programación 3\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.pdb
+C:\Users\Billy\Documents\Programación 3\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.genruntimeconfig.cache
+C:\Users\Billy\Documents\Programación 3\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ref\ProyectoFinalUSPG.dll
+C:\Users\Billy\Documents\Programación 3\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmAlumno.resources
+C:\Users\Billy\Documents\Programación 3\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmCircular.resources
+C:\Users\Billy\Documents\Programación 3\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmDobleEnlazada.resources
+C:\Users\dev\Documents\ProyectoFinalUSPG\bin\Debug\net6.0-windows\ProyectoFinalUSPG.exe
+C:\Users\dev\Documents\ProyectoFinalUSPG\bin\Debug\net6.0-windows\ProyectoFinalUSPG.deps.json
+C:\Users\dev\Documents\ProyectoFinalUSPG\bin\Debug\net6.0-windows\ProyectoFinalUSPG.runtimeconfig.json
+C:\Users\dev\Documents\ProyectoFinalUSPG\bin\Debug\net6.0-windows\ProyectoFinalUSPG.dll
+C:\Users\dev\Documents\ProyectoFinalUSPG\bin\Debug\net6.0-windows\ProyectoFinalUSPG.pdb
+C:\Users\dev\Documents\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.csproj.AssemblyReference.cache
+C:\Users\dev\Documents\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmAlumno.resources
+C:\Users\dev\Documents\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmCircular.resources
+C:\Users\dev\Documents\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmCola.resources
+C:\Users\dev\Documents\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmDobleEnlazada.resources
+C:\Users\dev\Documents\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmPrincipal.resources
+C:\Users\dev\Documents\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.csproj.GenerateResource.cache
+C:\Users\dev\Documents\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.AssemblyInfo.cs
+C:\Users\dev\Documents\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.dll
+C:\Users\dev\Documents\ProyectoFinalUSPG\obj\Debug\net6.0-windows\refint\ProyectoFinalUSPG.dll
+C:\Users\dev\Documents\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.pdb
+C:\Users\dev\Documents\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.genruntimeconfig.cache
+C:\Users\dev\Documents\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ref\ProyectoFinalUSPG.dll
+C:\Users\dev\Documents\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmPila.resources
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\bin\Debug\net6.0-windows\ProyectoFinalUSPG.exe
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\bin\Debug\net6.0-windows\ProyectoFinalUSPG.deps.json
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\bin\Debug\net6.0-windows\ProyectoFinalUSPG.runtimeconfig.json
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\bin\Debug\net6.0-windows\ProyectoFinalUSPG.dll
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\bin\Debug\net6.0-windows\ProyectoFinalUSPG.pdb
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmAlumno.resources
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmCircular.resources
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmCola.resources
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmDobleEnlazada.resources
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmPila.resources
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmPrincipal.resources
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.csproj.GenerateResource.cache
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.AssemblyInfoInputs.cache
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.AssemblyInfo.cs
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.dll
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\refint\ProyectoFinalUSPG.dll
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.pdb
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.genruntimeconfig.cache
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ref\ProyectoFinalUSPG.dll
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_04jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmTablaHash.resources
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\bin\Debug\net6.0-windows\ProyectoFinalUSPG.exe
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\bin\Debug\net6.0-windows\ProyectoFinalUSPG.deps.json
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\bin\Debug\net6.0-windows\ProyectoFinalUSPG.runtimeconfig.json
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\bin\Debug\net6.0-windows\ProyectoFinalUSPG.dll
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\bin\Debug\net6.0-windows\ProyectoFinalUSPG.pdb
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmAlumno.resources
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmCircular.resources
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmCola.resources
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmDobleEnlazada.resources
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmPila.resources
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmPrincipal.resources
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.frmTablaHash.resources
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.csproj.GenerateResource.cache
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.AssemblyInfoInputs.cache
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.AssemblyInfo.cs
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.dll
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\refint\ProyectoFinalUSPG.dll
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.pdb
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ProyectoFinalUSPG.genruntimeconfig.cache
+C:\Users\kevin\Downloads\ProyectoFinalUSPG_05jun\ProyectoFinalUSPG\obj\Debug\net6.0-windows\ref\ProyectoFinalUSPG.dll
